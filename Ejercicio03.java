@@ -18,7 +18,7 @@ public class Ejercicio03 {
         h2=(-b-Math.sqrt(h))/(2*a);
         System.out.println("x= "+h1);
         System.out.println("x= "+h2);
-        System.out.println("Java3V2RamaMaster" );
+        System.out.println("Java3V3RamaMaster" );
         }
     } 
 }
