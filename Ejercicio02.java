@@ -8,5 +8,6 @@ public class Ejercicio02 {
         radio=teclado.nextDouble();
         area=(radio*Math.PI*radio);
         System.out.println("El area del círculo es: "+area+"m^2");
+        System.out.println("Java2V1RamaMaster" );
     } 
 }
