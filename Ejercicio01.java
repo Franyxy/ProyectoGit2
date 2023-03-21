@@ -12,6 +12,7 @@ public class Ejercicio01 {
         System.out.println("Introduzaca el número");
         a=teclado.next();
         numero=a.length();
-        System.out.println("El número "+a+" tiene "+numero+" caracteres." );   
+        System.out.println("El número "+a+" tiene "+numero+" caracteres." );
+        System.out.println("Java1V1RamaMaster" );
     } 
 }
